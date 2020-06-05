@@ -51,7 +51,7 @@ function logar() {
         salvarNome()
 
         //Corrigir todos esses endereços de diretório
-        window.open("projeto2.html", "_self")
+        window.open("../projeto/projeto2.html", "_self")
 
 
     } else {
