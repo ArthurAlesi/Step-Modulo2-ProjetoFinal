@@ -50,6 +50,7 @@ function logar() {
         //     window.alert("logou")
         salvarNome()
 
+        //Corrigir todos esses endereços de diretório
         window.open("projeto2.html", "_self")
 
 
